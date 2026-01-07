@@ -23,9 +23,9 @@ First, server is started and a message is sent to all the clients.<br><br>
 And then, user 100 logs in and gets the message<br><br>
 <img src="./screenshot/imsystem_client_1.png" alt="client side log-in interface" width="650"/>
 <img src="./screenshot/imsystem_client_2.png" alt="user 100 logs in and receives the broadcast message" width="650"/><br><br>
-User 200 logs in and gets the message, too. It then chooses to display the online user list. After seeing that only itself and user 100 are online, it sends a message "Hi 100, I am 200." to user 100.
+User 200 logs in and gets the message, too. It then chooses to display the online user list. After seeing that only itself and user 100 are online, it sends a message "Hi 100, I am 200." to user 100, and the system tells it the message is sent.
 <img src="./screenshot/imsystem_client_3.png" alt="user 200 logs in and gets the test message" width="650"/>
-<img src="./screenshot/imsystem_client_4.png" alt="user 200 views the online user list" width="650"/>
-<img src="./screenshot/imsystem_client_5.png" alt="user 200 sends the message" width="650"/><br><br>
-And user 100 receives the message from 200 instantly.
-<img src="./screenshot/imsystem_client_6.png" alt="user 100 gets the message from 200" width="650"/>
+<img src="./screenshot/imsystem_client_4.png" alt="user 200 views the online user list" width="450"/><br>
+<img src="./screenshot/imsystem_client_5.png" alt="user 200 sends the message" width="450"/><br><br>
+And user 100 receives the message from 200 instantly.<br><br>
+<img src="./screenshot/imsystem_client_6.png" alt="user 100 gets the message from 200" width="450"/>
